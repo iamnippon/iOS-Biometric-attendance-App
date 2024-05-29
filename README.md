@@ -2,6 +2,11 @@
 # Biometric Attendance Application
 
 This project is a Biometric Attendance Application developed in Swift for iOS. It allows users to sign up, log in, and mark their attendance using biometric authentication and location validation.
+I have done this project in CS 4405, Unit 7 at UoPeople.
+
+<p align="center">
+<img src="Screenshots/s5.png" alt="Description of Image" width="600" height="350">
+</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -47,6 +52,15 @@ This application is created as a project for the CS 4405 course by Nippon Chowdh
 3. **Run the Project**:
    - Select a target device (an iOS simulator or a connected device).
    - Click the `Run` button or press `Cmd + R` to build and run the project.
+  
+## Screenshots
+<p align="center">
+<img src="Screenshots/s1.png" alt="Description of Image" width="200" height="400">
+<img src="Screenshots/s2.png" alt="Description of Image" width="200" height="400">
+<img src="Screenshots/s3.png" alt="Description of Image" width="200" height="400">
+<img src="Screenshots/s4.png" alt="Description of Image" width="200" height="400">
+
+</p>
 
 ## Usage
 
