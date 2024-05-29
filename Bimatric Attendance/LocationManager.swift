@@ -2,8 +2,6 @@
 //  LocationManager.swift
 //  Bimatric Attendance
 //
-//  Created by mindbend91@gmail.com on 29/5/24.
-//
 import CoreLocation
 import UIKit
 
@@ -39,4 +37,9 @@ class LocationManager: NSObject, CLLocationManagerDelegate {
         }
     }
 }
+
+//  Author: Nippon Chowdhury 28/5/24.
+//  Author GitHub: [https://github.com/iamnippon]
+//  Repo: git Clone https://github.com/iamnippon/iOS-Biometric-attendance-App.git
+
 
