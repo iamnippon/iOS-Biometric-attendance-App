@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Bimatric Attendance
 //
-//  Created by mindbend91@gmail.com on 28/5/24.
 //
 
 import UIKit
