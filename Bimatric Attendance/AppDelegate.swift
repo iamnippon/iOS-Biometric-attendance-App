@@ -2,10 +2,14 @@
 //  AppDelegate.swift
 //  Bimatric Attendance
 //
+<<<<<<< HEAD
 //  Author: Nippon Chowdhury 28/5/24.
 //  Author GitHub: [https://github.com/iamnippon]
 //  Repo: git Clone https://github.com/iamnippon/iOS-Biometric-attendance-App.git
 
+=======
+//
+>>>>>>> 68fc4be76454c0999a738f14fdefd48e946604c8
 
 import UIKit
 import CoreData
